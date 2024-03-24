@@ -1,6 +1,6 @@
 <h1 align="center">react-mobile-ui</h1>
 
-<p align="center">📱 A mobile component library based on the <strong>React</strong> framework
+<p align="center">📱 A mobile component library based on the <strong>React</strong> <strong>svelte</strong> <strong>RVue</strong>framework
 
 <p align="center">
   <a href="https://taoyage.github.io/react-mobile-ui">document</a>
